@@ -28,7 +28,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BYL-d4-l8Q">
                                 <rect key="frame" x="234" y="160" width="112" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.73583225388601037" green="0.72532664354770116" blue="0.0036418647476979412" alpha="0.72551716549295775" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
                                 <size key="titleShadowOffset" width="-0.5" height="0.5"/>
                                 <state key="normal" title="Hit me!" backgroundImage="Button-Highlighted">
